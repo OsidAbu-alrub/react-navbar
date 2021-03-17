@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OsidAbu-alrub/react-navbar/static/css/main.72b0cce9.chunk.css",
+    "main.js": "/OsidAbu-alrub/react-navbar/static/js/main.37b5c1dd.chunk.js",
+    "main.js.map": "/OsidAbu-alrub/react-navbar/static/js/main.37b5c1dd.chunk.js.map",
+    "runtime-main.js": "/OsidAbu-alrub/react-navbar/static/js/runtime-main.e85e6d4d.js",
+    "runtime-main.js.map": "/OsidAbu-alrub/react-navbar/static/js/runtime-main.e85e6d4d.js.map",
+    "static/js/2.23086bcc.chunk.js": "/OsidAbu-alrub/react-navbar/static/js/2.23086bcc.chunk.js",
+    "static/js/2.23086bcc.chunk.js.map": "/OsidAbu-alrub/react-navbar/static/js/2.23086bcc.chunk.js.map",
+    "index.html": "/OsidAbu-alrub/react-navbar/index.html",
+    "static/css/main.72b0cce9.chunk.css.map": "/OsidAbu-alrub/react-navbar/static/css/main.72b0cce9.chunk.css.map",
+    "static/js/2.23086bcc.chunk.js.LICENSE.txt": "/OsidAbu-alrub/react-navbar/static/js/2.23086bcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e85e6d4d.js",
+    "static/js/2.23086bcc.chunk.js",
+    "static/css/main.72b0cce9.chunk.css",
+    "static/js/main.37b5c1dd.chunk.js"
+  ]
+}
